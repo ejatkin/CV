@@ -13,7 +13,7 @@ I’m referring to [Carol Dweck’s TED talk](https://www.ted.com/talks/carol_dw
 Software development has brought out my latent curiosity: why does this work, what if I try this, what does that mean? But it has also taught me to ask better questions and to ask them only after I've spent time looking into the issue. In refining my questions, I sometimes even get to the solution as part of the process. But even if I don’t, the process of researching possible solutions and looking at the different ways other people have approached the problem have all helped me to write the clearest and most concise solution I possibly can.
 
 ####Empathy / the power of “being positive”
-I have found software development enjoyable in a way I never expected and in a number of unlikely places: stack traces, databases, a book called “The Well-Grounded Rubyist”. I would like to share that enthusiasm and find the most positive way of working with people. I want to come up with positive, constructive ways of doing thing better and I want the chance to grow and learn from my mistakes.
+I have found software development enjoyable in a way I never expected and in a number of unlikely places: stack traces, databases, a book called “The Well-Grounded Rubyist”. I would like to share that enthusiasm and find the most positive way I can of working with people. I want to come up with constructive ways of doing thing better and the chance to grow and learn from my mistakes.
 
 ####And also some coding...
 My tech skills include: Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL.
