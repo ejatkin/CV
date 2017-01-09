@@ -1,6 +1,6 @@
 ## Elizabeth Atkin
 
-I left the civil service to pursue a long-standing interest in all things digital. I wanted to see where my enthusiasm would take me and it led me to Makers Academy - Europe’s /#1 developer bootcamp. I’m excited to see where it will lead me next: hopefully to a full-stack junior developer role where I can also gain experience in product management and business strategy.
+I left the civil service to pursue a long-standing interest in all things digital. I wanted to see where my enthusiasm would take me and it led me to Makers Academy - Europe’s \#1 developer bootcamp. I’m excited to see where it will lead me next: hopefully to a full-stack junior developer role where I can also gain experience in product management and business strategy.
 
 ## Skills
 
