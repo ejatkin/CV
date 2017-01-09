@@ -1,48 +1,45 @@
-## Your Name
+## Elizabeth Atkin
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I left the civil service to pursue a long-standing interest in all things digital. I wanted to see where my enthusiasm would take me and it led me to Makers Academy - Europe’s /#1 developer bootcamp. I’m excited to see where it will lead me next: hopefully to a full-stack junior developer role where I can also gain experience in product management and business strategy.
 
 ## Skills
 
-#### This Skill
+Learning software development has changed my life. It has given me (at least) three powers...
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+####Premonition / the power of “yet”
+I’m referring to [Carol Dweck’s TED talk](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve). There are many, many things in software development that I don’t know or can’t do. Yet. But I am looking forward to those challenges and believe that I am equipped with the tools, skills and tenacity required to solve them.
 
-- Experience
-- Achievements
-- Evidence
+####Investigation / the power of “why”
+Software development has brought out my latent curiosity: why does this work, what if I try this, what does that mean? But it has also taught me to ask better questions and to ask them only after I've spent time looking into the issue. In refining my questions, I sometimes even get to the solution as part of the process. But even if I don’t, the process of researching possible solutions and looking at the different ways other people have approached the problem have all helped me to write the clearest and most concise solution I possibly can.
 
-#### Another Skill
+####Empathy / the power of “being positive”
+I have found software development enjoyable in a way I never expected and in a number of unlikely places: stack traces, databases, a book called “The Well-Grounded Rubyist”. I would like to share that enthusiasm and find the most positive way of working with people. I want to come up with positive, constructive ways of doing thing better and I want the chance to grow and learn from my mistakes.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+####And also some coding...
+My tech skills include: Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2016 to February 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+A 16 week intensive software development bootcamp focusing on:
+- Agile methodologies
+- Object-oriented design
+- Test driven development and behaviour driven development
+- Pair programming
+- XP values
+- Software craftsmanship
 
-#### Your University / College (start_date to end_date)
+#### University of Oxford, Trinity College (October 2005 to June 2008)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- BA Hons Philosophy, Politics & Economics (PPE)
+- 2.1
+- I was elected Trinity College’s Access and Admissions representative whilst at university and now volunteer with Future First, a charity that sets up alumni networks for state schools.
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Ministry of Justice** (March 2013 to September 2016)    
+*Communications Advisor*
+
+**Imperial College** (September 2009 to March 2013)   
+*Digital / marketing roles*  
