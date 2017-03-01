@@ -1,6 +1,6 @@
 ## Elizabeth Atkin
 
-I left the civil service to pursue a long-standing interest in all things digital. I wanted to see where my enthusiasm would take me and it led me to Makers Academy - Europe’s \#1 developer bootcamp. I’m excited to see where it will lead me next: hopefully to a full-stack junior developer role where I can also gain experience in product management and business strategy.
+I left the civil service to pursue a long-standing interest in all things digital. I wanted to see where my enthusiasm would take me and it led me to Makers Academy - Europe’s \#1 developer bootcamp. I’m excited to see where it will lead me next: hopefully to a role where I can combine full-stack development with experience in product management and business strategy.
 
 ## Skills
 
@@ -16,7 +16,7 @@ Software development has brought out my latent curiosity: why does this work, wh
 I have found software development enjoyable in a way I never expected and in a number of unlikely places: stack traces, databases, a book called “The Well-Grounded Rubyist”. I would like to share that enthusiasm and find the most positive way I can of working with people. I want to come up with constructive ways of doing thing better and the chance to grow and learn from my mistakes.
 
 ####And also some coding...
-My tech skills include: Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL.
+My tech skills include: Ruby, Rails, Sinatra, Swift, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL.
 
 ## Education
 
@@ -43,3 +43,6 @@ A 16 week intensive software development bootcamp focusing on:
 
 **Imperial College** (September 2009 to March 2013)   
 *Digital / marketing roles*  
+
+## Interests
+I enjoy baking, yoga and sport in the park. When I'm on holiday, I try to take photographs of my travels.
